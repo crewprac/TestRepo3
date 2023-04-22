@@ -1,3 +1,7 @@
 this is fourth file
 this is second file
+<<<<<<< HEAD
 agisn in third line
+=======
+this is third file.........
+>>>>>>> bug3
